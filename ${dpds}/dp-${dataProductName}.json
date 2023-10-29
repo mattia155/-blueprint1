@@ -1,5 +1,0 @@
-{
-    "fullyQualifiedName": "urn:org.opendatamesh:dataproducts:"${dataProductName},
-    "description": ${dataProductDescription},
-    "domain": ${dataProductDomain}
-}
