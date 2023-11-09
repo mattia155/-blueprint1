@@ -1,0 +1,22 @@
+[
+	{
+		"name": "dpds",
+		"description": "Nome della directory che ospita gli oggetti JSON di un Data Product",
+		"defaultValue": "dpds-dir"
+	},
+	{
+		"name": "dataProductName",
+		"description": "Nome del Data Product",
+		"defaultValue": "dataProduct"
+	}, 
+	{
+		"name": "dataProductDescription",
+		"description": "Descrizione testuale del Data Product in questione",
+		"defaultValue": "A Data Product object"
+	},
+	{
+		"name": "dataProductDomain",
+		"description": "Domain del Data Product",
+		"defaultValue": "DefaultDomain"
+	}
+]
